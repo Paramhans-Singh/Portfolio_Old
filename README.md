@@ -12,7 +12,7 @@ This project is a personal portfolio website built using HTML, CSS, and JavaScri
 - **Responsive Design**: Optimized for viewing on various devices including desktops, tablets, and smartphones.
 
 ## Portfolio Preview
-
+https://github.com/Paramhans-Singh/Portfolio_Old/assets/101575816/75e8f85a-7622-4ea8-9068-27ce6eb93bb9
 
 ## Usage
 
